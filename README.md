@@ -2,6 +2,8 @@
 [![Version](https://img.shields.io/npm/v/project4.svg)](https://www.npmjs.com/package/project4)
 [![License: M.G.Kemp Enterprises](https://img.shields.io/badge/License-M.G.Kemp Enterprises-yellow.svg)](#)
 
+## Overview 
+
 > BMO AI is a story telling robot, here to enchant you with stories made up on the spot, from prompts given by you.
 
 ## Install
@@ -17,12 +19,15 @@ npm install
 ## Tech used
 
 Python,
-React,
+Django,
 Node,
-Pyscript,
 Git,
 JS,
 Davinchi API, 
+
+## ERD 
+
+
 
 
 
