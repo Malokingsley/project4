@@ -4,7 +4,7 @@
 
 ## Overview 
 
-> BMO AI is a story telling robot, here to enchant you with stories made up on the spot, from prompts given by you.
+> This site is dedicated to auto matanance, This is your one stop shop for auto repair info and parts required to get the job done yourself.
 
 ## Install
 
@@ -14,16 +14,18 @@ npm install
 
 ## User story 
 
-> User will be able to  type in a story prompt and generate a story using A.I, if user chooses to they can save delete and edit the story. User will also be able to sign in and save info.
-
+> User will be able to:
+- sign in 
+- sign out
+- search for car and repair info
+- save, delete, and edit the repair info once it's saved to there "toolbox"
 ## Tech used
 
 Python,
 Django,
 Node,
 Git,
-JS,
-Davinchi API, 
+CarMD API
 
 ## ERD 
 
